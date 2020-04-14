@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="GoStack" src="https://ap.imagensbrasil.org/images/2020/04/09/banner-bootcamp-gostack-11.png" />
+    <img alt="GoStack" src="https://i.lensdump.com/i/jCEM0c.png" />
 </p>
 
 ## :rocket: <span style="color:darkslateblue;">Typescript</span> Introduction
